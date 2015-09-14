@@ -1,0 +1,17 @@
+/*These Styles are belong to the "BACKtoTOP" Button*/
+        .top{
+
+            bottom: 2.5em;
+            display: none;
+            opacity:0.4;
+            padding: 1.5em;
+            position: fixed;
+            right: 1.5em;
+            text-decoration: none;
+
+        }
+        .top:hover{
+            opacity:.8;
+            transition:1s;
+        }
+/*END-These Styles are belong to the "BACKtoTOP" Button*/
